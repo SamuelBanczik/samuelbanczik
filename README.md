@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Banczík</h1>
-<h3 align="center">A passionate student learning frontend from Slovakia</h3>
+<h3 align="center">A passionate student learning to programming from Slovakia</h3>
 
-- 🔭 I’m currently learning programming in [SSOSTA](https://ssosta.edupage.org/)
+- 🔭 I’m currently learning in [SSOSTA](https://ssosta.edupage.org/)
 
 - 🌱 I’m currently learning **HTML,CSS,PHP and MySQL**
 
