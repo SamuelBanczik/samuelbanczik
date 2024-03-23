@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Banczík</h1>
-<h3 align="center">A passionate student learning to programming from Slovakia</h3>
+<h3 align="center">A passionate student learning programming from Slovakia</h3>
 
 - 🔭 I’m currently studying in [SSOSTA](https://ssosta.edupage.org/)
 
