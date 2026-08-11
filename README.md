@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Samuel and I'm a student, from Slovakia</h1>
+<h1 align="left">I am better than you and your last coder</h1>
 
 ###
 
